@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="comment_input_gray">#e4e3e5</color>
+    <color name="Grey_300">#E0E0E0</color>
+
+    <color name="white">#FFFFFF</color>
+
+
+    <!-- andbase color -->
+    <color name="gray">#7c7c7c</color>
+    <color name="gray_light">#887c7c7c</color>
+    <color name="red_light">#FC9D65</color>
+    <color name="red">#e90000</color>
+    <color name="transparent">#00000000</color>
+    <color name="list_divider">#D3D3D3</color>
+    <color name="gray_white">#ebebeb</color>
+    <color name="oranage">#B4FF8800</color>
+    <color name="blue">#33B5E5</color>
+
+    <!-- 最新的主题颜色 -->
+    <color name="base_color">#3399cc</color>
+    <color name="content_bg">#ededed</color>
+    <color name="base_btn_color">#f39800</color>
+    <color name="base_btn_focus_color">#ccf39800</color>
+    <color name="light_blue">@android:color/holo_blue_light</color>
+
+    <!--下载中心-->
+    <color name="filter_bg">#f6f6f6</color>
+    <color name="gray_dark">#2e2e2e</color>
+
+    <color name="bod_searchbg_color">#216cba</color>
+</resources>
